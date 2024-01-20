@@ -33,4 +33,5 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_logo = "./_static/img/mantella_logo_github.png"
+html_favicon = "./_static/img/mantella_favicon.ico"
 html_static_path = ['_static']

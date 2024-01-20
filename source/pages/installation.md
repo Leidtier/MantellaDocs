@@ -4,6 +4,7 @@ For a visual reference to help install Mantella, see here (the video is in Frenc
 
 ```{eval-rst}
 ..  youtube:: v=-zRj2zFvGo0
+
 ```
 
 %[youtube.com/watch?v=-zRj2zFvGo0](https://www.youtube.com/watch?v=-zRj2zFvGo0)
