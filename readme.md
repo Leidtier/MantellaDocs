@@ -32,11 +32,11 @@ You can now already work with and build this Sphinx project:
 4. Open the new site by opening `/your_repo/build/html/index.html` in your browser
 5. Do not add the contents of `/your_repo/build/` to the repo, this is your personal build output
 
-To edit the project, Visual Studio Code has proven to be a useful tool with some support for Markdown already installed:
+To edit the project, Visual Studio Code has proven to be a useful tool with some support for Markdown already built-in:
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Open the source by `File -> Open Folder...` and then opening `/your_repo/source`
-3. Open a markdown file ended in `.md` like `index.md` directly in the source folder
+3. Open a markdown file ended in `.md` like `index.md`
 4. Right click its tab and select `Open Preview` or press `CTRL+SHIFT+V` to open a preview of the markdown file (Note: the built result will look different in style, but this helps to find issues in your markdown) 
 5. Add extensions to Visual Studio to make your life easier
     - MyST-Markdown <- This adds support for the markdown syntax extension used by Sphinx to the preview in Visual Studio Code
