@@ -20,8 +20,8 @@ This part is a fast setup guide for people who know how to work with Git and Pyt
 
 1. Clone the repo to your machine
 2. `cd` to your new local repo
-3. Create a virtual environment via `py -3.11 -m venv MantellaEnv` in your console
-4. Start the environment in your console (`.\MantellaEnv\Scripts\Activate`)
+3. Create a virtual environment via `py -3.11 -m venv MantellaSphinx` in your console
+4. Start the environment in your console (`.\MantellaSphinx\Scripts\Activate`)
 5. Install the required packages via `pip install -r requirements.txt`
 
 You can now already work with and build this Sphinx project:
@@ -30,6 +30,7 @@ You can now already work with and build this Sphinx project:
 2. call `make html`
 3. Sphinx will build the repository as a static site and place it in `/your_repo/build/html`
 4. Open the new site by opening `/your_repo/build/html/index.html` in your browser
+5. Do not add the contents of `/your_repo/build/` to the repo, this is your personal build output
 
 To edit the project, Visual Studio Code has proven to be a useful tool with some support for Markdown already installed:
 
